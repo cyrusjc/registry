@@ -1,0 +1,1 @@
+Skleleton for a module in the go standards for packages layout. 
