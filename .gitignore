@@ -17,6 +17,7 @@
 
 dist/
 bin/
+internal/gRPC/
 
 # Temporary files
 *.sw*

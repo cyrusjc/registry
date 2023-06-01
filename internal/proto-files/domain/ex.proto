@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-package domain;
-
-option go_package = "registry/internal/gRPC/domain";
