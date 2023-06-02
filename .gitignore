@@ -22,6 +22,7 @@ internal/gRPC/
 # Temporary files
 *.sw*
 
+.gitignore
 .vscode/
 *.pdf
 *.jpg

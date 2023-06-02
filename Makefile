@@ -1,3 +1,5 @@
+all: protocompile build
+
 protocompile:
 	protoc --go_out=..  internal/proto-files/domain/registry.proto
 	protoc --go_out=..  internal/proto-files/service/registry-service.proto
